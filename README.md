@@ -50,7 +50,7 @@ If you have any issues with the page please create [new issue here](https://gith
 
 When submitting a pull request:
 
-- Clone the repository `git clone https://github.com/blackzack22/blaczack.dev`
+- Clone the repository `git clone https://github.com/blackzacktech/blaczack.dev`
 - Create a branch off of master and give it a meaningful name (e.g. my-awesome-new-feature).
 - Open a [pull request](https://github.com/blackzacktech/blackzacktech.dev/pulls) on [GitHub](https://github.com) and describe the feature or fix.
 
