@@ -61,7 +61,7 @@
     "eslint-config-next": "14.2.4",
     "globby": "14.0.2",
     "mini-svg-data-uri": "1.4.4",
-    "postcss": "8.4.39",
+    "postcss": "8.4.47",
     "prettier": "3.3.2",
     "prettier-plugin-tailwindcss": "0.5.14",
     "tailwind-gradient-mask-image": "1.2.0",
